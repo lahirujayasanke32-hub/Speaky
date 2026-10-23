@@ -1,0 +1,6 @@
+{
+  "appId": "com.speakup.coach",
+  "appName": "SpeakUp",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
